@@ -1,0 +1,7 @@
+{
+    "label": "Service installation",
+    "link": {
+        "type": "generated-index",
+        "description": "Learn how to install the Azure OpenAI Proxy Service."
+    }
+}
